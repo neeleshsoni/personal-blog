@@ -1,0 +1,24 @@
+baseURL = "http://neeleshsoni.com/"
+languageCode = "en-us"
+title = "Black & White"
+theme = "mini"
+
+hasCJKLanguage = true
+[permalinks]
+  posts= "/posts/:year/:month/:title/"
+
+[social]
+  github= "http://www.github.com/neeleshsoni"
+  twitter= "http://www.twitter.com/neeleshksoni"
+
+[params]
+  # Site Author
+  author= "Neelesh Soni"
+  # Author biography
+  bio= "Entrepreneur | Product Manager | Change Agent"
+  # Site Description, used in HTML meat
+  description= "My Blog"
+  enableRSS= false 
+  [links]
+    name= "Books"
+    path= "/books"
