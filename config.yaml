@@ -1,0 +1,23 @@
+baseURL: http://neeleshsoni.com/
+languageCode: en-us
+title: Black & White
+theme: mini
+
+hasCJKLanguag: true
+permalinks:
+  posts: /posts/:year/:month/:title/
+
+social:
+  twitter: http://www.twitter.com/neeleshksoni
+
+params:
+  # Site Author
+  author: Neelesh Soni
+  # Author biography
+  bio: thoughts on entrepreneurship, product management, and life ...
+  # Site Description, used in HTML meat
+  description: "My Blog"
+  enableRSS: false 
+  links:
+    - name: Bookshelf
+      path: /bookshelf
