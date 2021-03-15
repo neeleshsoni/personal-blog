@@ -10,6 +10,8 @@ author = "Neelesh Soni"
 
 I spend my time [reading](https://neeleshsoni.com/bookshelf), listening to [music](https://open.spotify.com/playlist/2bo69IQ7EvFx1xXkfZa8AC?si=7rfPi-GeSiCFD82RWtEXOA), and recently [writing](https://neeleshsoni.com/posts). I also love board-games, PS4, and Poker. I live in Bengaluru, with my adorable 6-month old, Ved and my lovely wife, Pallavi.
 
+I'm not the best thinker or writer out there, nor have I achieved any unique successes. And, I have let that come in the way of sharing my experiences online, but I recently rediscovered [this song](https://open.spotify.com/track/4PuMLJPJ4YftrUtYQYn8Zd?si=X7a40vyrQVWbE1p_PskNQg), it gave me the confidence of putting my soup of words out there.
+
 Always open for a discussion about products, strategy, startups, and parenting.
 
 GL HF ;)
