@@ -4,9 +4,3 @@
 
 [build.environment]
   HUGO_VERSION = "0.81.0"
-
-[[redirects]]
-    from = "/"
-    to = "blog.neeleshsoni.com/"
-    status = 301
-    force = true
