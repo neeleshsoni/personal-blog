@@ -1,19 +1,15 @@
 +++
 title = "About"
 description = "Black & White, personal blog of Neelesh Soni."
-date = "2021-02-06"
+date = 2021-03-15T09:36:17+05:30
 aliases = ["about-us", "about-hugo", "contact"]
 author = "Neelesh Soni"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+👋, I am Neelesh Soni. I currently work at [Myntra](https://www.myntra.com). In the past I have worked for [Flipkart](https://www.flipkart.com) and Pictor (CEO & Co-founder, acquired by Flipkart). Learn more here: [LinkedIn](https://linkedin.com/in/neelesh-soni).
 
-Hugo makes use of a variety of open source projects including:
+I spend my time [reading](https://neeleshsoni.com/bookshelf), listening to [music](https://open.spotify.com/playlist/2bo69IQ7EvFx1xXkfZa8AC?si=7rfPi-GeSiCFD82RWtEXOA), and now [writing](https://neeleshsoni.com/posts). I also love board-games, PS4, and Poker. I live in Bengaluru, with my adorable 6-month old, Ved and my lovely wife, Pallavi.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Always open for a discussion about products, strategy, startups, and parenting.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [LinkedIn](https://linkedin.com/in/neelesh-soni).
+GL HF ;)
