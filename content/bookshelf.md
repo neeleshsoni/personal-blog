@@ -36,3 +36,9 @@ date: 2021-03-15T01:36:17+05:30
 - The Four - The Hidden DNA of Amazon, Apple, Facebook and Google
 - A Master's Secret Whispers
 - Atmamun
+- Ted Talks
+- Decisive
+- The CEO Next Door
+- Blitzscaling
+- Leading With Vision
+- Fifty Things That Made The Modern Economy
