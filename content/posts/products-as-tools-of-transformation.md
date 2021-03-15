@@ -2,14 +2,14 @@
 title: "Products as Tools of Transformation"
 date: 2021-03-15T13:29:16+05:30
 draft: false
-type: "fblog"
+type: "blog"
 ---
 
 Humans, like all the other living systems are a result of small transformations over millions of years. But, at some point of time we crossed a threshold of intelligence and learned to build products (tools). This accelerated our rate of transformation exponentially. We have used this ability to ***will into existence*** rather than just ***wish for the changes*** we wanted to bring to our surroundings and now our bodies.
 
 From farming and agriculture to silicon and nano-materials of today, technologies have improved *longevity and quality of human life*. Products are the interface between the abstract technologies and humans.
 
-I find this definition very grounding when ideating products. It's user-centric, inspiring, and provides a comprehensive framework of solutioning.
+I find this definition very grounding when ideating products. It's **user-centric, inspiring,** and provides a **comprehensive framework for solutioning**.
 
 ### User-centric
 
@@ -19,16 +19,23 @@ This thought process is similar to that of JTBD framework, which keeps the focus
 
 ### Inspiring
 
-I personally find the power to shape or improve lives of fellow humans in any non-trivial manner very inspiring. This is what pushes me to think of products artistically, to not just limit to the functional need but bring *an element of joy and join the user in celebrating* the transformation. To understand the ***Journey*** that we briefly share.
+I personally find the power to shape or improve lives of fellow humans in any non-trivial manner very inspiring. It's important to ease the user into a new state of balance from their current one. This is what pushes me to think of products artistically, to not just limit to the functional need but bring *an element of joy and join the user in celebrating* the transformation. To pay attention to the last level of detail knowing full well the significance of the ***Journey*** that we briefly share.
+
+![2 girls on a paper plane flying](https://miro.medium.com/max/700/1*LX6F5AZIS5wSCMj9idVILA@2x.png "Source: Atlassian")
 
 ### Comprehensive Framework for Solutioning
 
 **TODO**
 
-Think about humans
+Transformations have to be meaningful, feasible, and sustainable.
+
+1. Goals/Desired State
+2. Extent of change required
+3. Change Agents
+4. Key driving and restraining forces
+
 Think about tech
-Think about the interface and its nitty gritties
-have a story that makes sense to the user -> strong branding
-*Well thought-out and purposefully built* product
+Have a story that makes sense to the user -> strong branding
+Desired outcome *Well thought-out and purposefully built* product
 
 > The desire to improve ourselves and our life-situations is in our DNA. It’s what makes us human. Moreover, we do these transformations with purpose. We purposefully use the arts to improve ourselves emotionally; the sciences to improve ourselves intellectually; and engineering to improve how we interact with the world. - Alan Klement
