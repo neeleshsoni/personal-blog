@@ -6,6 +6,7 @@ theme: mini
 hasCJKLanguag: true
 permalinks:
   posts: /posts/:year/:month/:title/
+  summaries: /summaries/:year/:month/:title/
 
 social:
   twitter: http://www.twitter.com/neeleshksoni
@@ -21,3 +22,5 @@ params:
   links:
     - name: Bookshelf
       path: /bookshelf
+    - name: Book Summaries
+      path: /summaries
