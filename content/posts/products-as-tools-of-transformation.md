@@ -7,7 +7,7 @@ type: "blog"
 
 Humans, like all the other living systems are a result of small transformations over millions of years. But, at some point of time we crossed a threshold of intelligence and learned to build products (tools). This accelerated our rate of transformation exponentially. We have used this ability to ***will into existence*** rather than just ***wish for the changes*** we wanted to bring to our surroundings and now our bodies.
 
-From farming and agriculture to silicon and nano-materials of today, technologies have improved *longevity and quality of human life*. Products are the interface between the abstract technologies and humans.
+From farming and agriculture to silicon and nano-materials of today, technology driven transformations have improved *longevity and quality of human life*. Products enable these transformations by bridging the abstract technologies and humans.
 
 I find this definition very grounding when ideating products. It's **user-centric, inspiring,** and provides a **comprehensive framework for solutioning**.
 
@@ -23,19 +23,19 @@ I personally find the power to shape or improve lives of fellow humans in any no
 
 ![2 girls on a paper plane flying](https://miro.medium.com/max/700/1*LX6F5AZIS5wSCMj9idVILA@2x.png "Source: Atlassian")
 
-### Comprehensive Framework for Solutioning
+### Structured Framework
 
 **TODO**
 
 Transformations have to be meaningful, feasible, and sustainable.
 
-1. Goals/Desired State
-2. Extent of change required
-3. Change Agents
-4. Key driving and restraining forces
-
-Think about tech
-Have a story that makes sense to the user -> strong branding
 Desired outcome *Well thought-out and purposefully built* product
 
+**END TODO**
+
+End quote
 > The desire to improve ourselves and our life-situations is in our DNA. It’s what makes us human. Moreover, we do these transformations with purpose. We purposefully use the arts to improve ourselves emotionally; the sciences to improve ourselves intellectually; and engineering to improve how we interact with the world. - Alan Klement
+
+---
+### Mindmap
+![mindmap for the post](/patt-mindmap.png)
